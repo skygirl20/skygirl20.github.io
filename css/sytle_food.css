@@ -1,0 +1,134 @@
+h1 {
+	font-size: 3em;
+    text-align: center;
+}
+
+h3 {
+	font-size: 1.5em;
+    text-align: center;
+    font-weight: border;
+}
+
+body {
+    background-image: url('/parkminseo/images/food_back.jpg');
+    background-size: 1900px;
+}
+
+table {
+    size: 800px;    
+    margin:auto;
+}
+
+h2 {
+    text-align: left;
+    font-size: 2.5em;
+    color: rgb(14, 80, 88);
+    padding: 5px 0 5px 50px;
+    font-weight: bolder ;
+}
+
+td {
+    padding: 10px 20px 10px 20px;
+}
+
+img#kor1 {
+    width: 440px;
+    height: 340px;
+}
+
+img#kor2 {
+    width: 400px;
+    height: 340px;
+}
+
+img#kor3 {
+    width: 450px;
+    height: 340px;
+}
+
+img#kor4 {
+    width: 440px;
+    height: 340px;
+}
+
+img#kor5 {
+    width: 400px;
+    height: 340px;
+}
+
+img#kor6 {
+    width: 450px;
+    height: 340px;
+}
+
+img#jap1 {
+    width: 440px;
+    height: 340px;
+
+}
+
+img#jap2 {
+    width: 400px;
+    height: 340px;
+}
+
+img#jap3 {
+    width: 450px;
+    height: 340px;
+}
+
+img#jap4 {
+    width: 440px;
+    height: 340px;
+
+}
+
+img#jap5 {
+    width: 400px;
+    height: 340px;
+}
+
+img#jap6 {
+    width: 450px;
+    height: 340px;
+}
+
+img#usa1 {
+    width: 440px;
+    height: 330px;
+
+}
+
+img#usa2 {
+    width: 400px;
+    height: 340px;
+}
+
+img#usa3 {
+    width: 450px;
+    height: 340px;
+}
+
+img#usa4 {
+    width: 440px;
+    height: 340px;
+
+}
+
+img#usa5 {
+    width: 400px;
+    height: 340px;
+}
+
+img#usa6 {
+    width: 450px;
+    height: 340px;
+}
+
+img#home {
+    width: 20px;
+}
+
+img#hobby {
+    width: 20px;
+}

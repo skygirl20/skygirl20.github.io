@@ -1,0 +1,40 @@
+h1 {
+	font-size: 3em;
+    text-align: center;
+}
+
+body {
+    background-image: url('/parkminseo/images/hobby_back.jpg');
+    background-size: 1900px;
+}
+
+th {
+    font-size: 2em;
+    padding: 50px 150px 50px 150px;
+}
+
+img#food {
+    width: 450px;
+    height: 335px;
+}
+
+img#trip {
+    width: 450px;
+}
+
+img#activity {
+    width: 450px;
+    height: 335px;
+}
+
+table {
+    margin:auto;
+}
+
+img#home {
+    width: 20px;
+}
+
+td#home {
+    text-align: center;
+}

@@ -1,0 +1,78 @@
+h1 {
+	font-size: 3em;
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-image: url('/parkminseo/images/trip_back.jpg');
+    background-size: 1900px;
+}
+
+table {
+    size: 800px;    
+    margin:auto;
+}
+
+th {
+    text-align: left;
+    font-size: 2em;
+    color: pink;
+    padding: 60px 0 60px 80px;
+}
+
+td {
+    padding: 0 30px 0 30px;
+}
+
+img#pink1 {
+    width: 440px;
+
+}
+
+img#pink2 {
+    width: 400px;
+}
+
+img#pink3 {
+    width: 450px;
+}
+
+img#pink4 {
+    width: 400px;
+
+}
+
+img#pink5 {
+    width: 400px;
+}
+
+img#pink6 {
+    width: 330px;
+}
+
+img#kang1 {
+    width: 440px;
+
+}
+
+img#kang2 {
+    width: 400px;
+}
+
+img#kang3 {
+    width: 450px;
+}
+
+img#home {
+    width: 20px;
+}
+
+img#hobby {
+    width: 20px;
+}
+
+th#home {
+    font-size: 1em;
+    text-align: center;
+}

@@ -1,0 +1,37 @@
+h1 {
+	background-color: bisque;
+	text-align: center;
+	font-size: 5em;
+}
+
+ul#menu {
+	background-color: aqua;
+	font-size: 1.9em;
+	text-align: center;
+}
+
+img#sheep {
+	width:600px;
+	display: block; margin: 0px auto;
+}
+
+img#info {
+	width:30px;
+}
+
+img#rest {
+	width:30px;
+	height:30px;
+}
+
+img#roadmap {
+	width:30px;
+	height:30px;
+}
+
+img#member {
+	width:30px;
+	height:30px;
+}
+
+div{background-color: blue;}

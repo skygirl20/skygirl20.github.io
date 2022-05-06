@@ -1,0 +1,27 @@
+img#me {
+    width:400px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 3em;
+}
+
+table {
+    color: white;
+    margin : auto;
+}
+
+td {
+    padding: 0 0 0 150px;
+}
+
+body {
+    background-image: url('/parkminseo/images/inifo_back.jpg');
+    background-size: 1900px;
+}
+
+img#home {
+    width: 20px;
+}

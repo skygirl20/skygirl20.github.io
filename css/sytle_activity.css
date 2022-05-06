@@ -1,0 +1,52 @@
+h1 {
+	font-size: 3em;
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-image: url('/parkminseo/images/activity_back.jpg');
+    background-size: 1900px;
+}
+
+table {
+    size: 800px;    
+    margin:auto;
+}
+
+img#roudge {
+    width: 450px;
+    height: 335px;
+}
+
+img#ski {
+    width: 450px;
+}
+
+img#bowling {
+    width: 450px;
+    height: 335px;
+}
+
+td {
+    text-align: center;
+    color:rgb(158, 90, 54);
+    font-size: 2em;
+}
+
+td#blank {
+    width: 120px;
+}
+
+img#home {
+    width: 20px;
+    color:white;
+}
+
+img#hobby {
+    width: 20px;
+}
+
+th#home {
+    text-align:center;
+}

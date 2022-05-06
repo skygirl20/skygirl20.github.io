@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 3em;
+}
+
+form#member {
+    padding:0 570px 0 600px;
+    text-align: left;
+}
+
+body {
+    background-image: url('/parkminseo/images/member_back.jpg');
+    background-size: 1900px;
+}
+
+img#home {
+    width: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1em;
+}
